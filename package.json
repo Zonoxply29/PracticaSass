@@ -1,0 +1,11 @@
+{
+  "name": "practicasass",
+  "version": "1.0.0",
+  "description": "Practicando Sass",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch scss/style.scss css/style.css"
+  },
+  "author": "",
+  "license": "ISC"
+}
